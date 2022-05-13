@@ -188,6 +188,13 @@ padding: 40px 20px 30px 20px;
     color: white;
     padding: 40px;
 }
+.container footer a {
+    color: white;
+    transition: all ease 0.4s;
+}
+.container footer a:hover {
+    color: #DBEBF9;
+}
 
 .nav-footer {
     color: #19295F;
